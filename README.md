@@ -16,7 +16,7 @@ Some people collect stamps. I collect ideas, side projects, and occasionally... 
 
 ## 🧠 Mammoth facts
 
-- 🍼 **Started coding since the Ice Age** — yes, before I had any idea what a proper sleep schedule was.
+- 🍼 **Started coding in the Ice Age** — yes, before I had any idea what a proper sleep schedule was.
 - 🏗️ **Full-stack at heart** — I like both the beautiful frontend and the clever backend.
 - 🤖 **AI & automation fan** — why do something 100 times when you can code it once?
 - 🎨 **Creative thinker** — great code should work *and* feel great to use.
