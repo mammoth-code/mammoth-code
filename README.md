@@ -1,80 +1,121 @@
-# 🦣 Hey, I'm Mammoth! 👋
+<!-- 🦣 MAMMOTH'S GITHUB PROFILE README -->
+<!-- Built for: https://github.com/mammoth-code -->
 
-### `Full-Stack Developer` 💻 · `Creative Builder` 🎨 · `Professional Bug Hunter` 🐛
+<div align="center">
 
-![Coding since since ice age](https://img.shields.io/badge/Coding%20since-age%2012-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Full stack](https://img.shields.io/badge/Full--Stack-Developer-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
-![AI lover](https://img.shields.io/badge/AI%20%26%20Automation-Enthusiast-16a34a?style=for-the-badge&logo=robotframework&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:4F46E5,100:8B5CF6&text=MAMMOTH%20%F0%9F%A6%A3&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Code%20like%20a%20Mammoth.%20Build%20beyond%20the%20Ice%20Age.&descAlignY=61&descSize=16&animation=fadeIn" alt="Mammoth — Code like a Mammoth, build beyond the Ice Age" width="100%" />
 
-> **"Code like a Mammoth. Build things that won't go extinct."** ❄️🚀
+<a href="https://github.com/mammoth-code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=950&color=9D7CFF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%F0%9F%92%BB;Coding+since+the+Ice+Age+%F0%9F%A6%A3;Turning+coffee+into+code+%E2%98%95;Making+boring+tasks+extinct+%E2%9D%84%EF%B8%8F;Always+building+something+new+%F0%9F%9A%80" alt="Animated introduction: Full-Stack Developer — Coding since the Ice Age" />
+</a>
 
-Hey there, curious human! 👀
+<br />
 
-I'm **Mammoth** — a full-stack developer who has been programming for over 15+ years. What began as curiosity turned into a lifelong love for building, breaking, fixing, and improving things. 🔧❤️
+<img src="https://img.shields.io/badge/CODING%20SINCE-THE%20ICE%20AGE-8B5CF6?style=for-the-badge&labelColor=111827" alt="Coding since the Ice Age" />
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-0EA5E9?style=for-the-badge&labelColor=111827" alt="Full-stack developer" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-22C55E?style=for-the-badge&labelColor=111827" alt="Building cool stuff" />
 
-Some people collect stamps. I collect ideas, side projects, and occasionally... bugs. 🐛😅
+<br /><br />
 
-## 🧠 Mammoth facts
+**🦣 Mammoth by name · Developer by nature · Curious since forever 🧊**
 
-- 🍼 **Started coding in the Ice Age** — yes, before I had any idea what a proper sleep schedule was.
-- 🏗️ **Full-stack at heart** — I like both the beautiful frontend and the clever backend.
-- 🤖 **AI & automation fan** — why do something 100 times when you can code it once?
-- 🎨 **Creative thinker** — great code should work *and* feel great to use.
-- 🎮 **Gamer** — strategy games, RPGs, and the occasional battle against my own code.
-- 🚀 **Always building** — there is *always* one more idea waiting to become a project.
+</div>
 
-## 🛠️ What I love to build
+## 🧊 Welcome to my Ice Age
 
-| 🧩 Area | 🦣 Mammoth mode |
-| --- | --- |
-| 🌐 Web apps | Clean interfaces, smooth experiences, and powerful features |
-| ⚙️ Backend systems | Smart logic, APIs, and reliable architecture |
-| 🤖 AI & automation | Making repetitive tasks go extinct |
-| 🎨 UI/UX | Turning "it works" into "wow, this feels good" |
-| 💡 Side projects | Turning wild ideas into actual working products |
+Hey, human! 👋 I'm **Mammoth** — a full-stack developer with a serious weakness for cool ideas, clever automation, smooth designs and projects that start with *“What if...?”* 💡
 
-## 💻 A little Mammoth source code
+**Legend says I've been coding since the Ice Age.** ❄️🦣  
+**The less legendary truth:** I wrote my first code when I was **12 years old**... and never really stopped. 💻
+
+> **My mission:** build awesome things, keep learning, and make boring tasks go extinct. 🚀
+
+### ⚡ Mammoth in 10 seconds
+
+- 🧠 **Creative problem solver** — there's almost always a smarter way.
+- 🏗️ **Full-stack builder** — from beautiful interfaces to the engines behind them.
+- 🤖 **AI & automation enthusiast** — let computers do the repetitive stuff.
+- 🎨 **Design-minded developer** — if it works *and* looks great, even better.
+- 🎮 **Gamer at heart** — RPGs, strategy games and the occasional boss fight with a bug.
+- 🛠️ **Forever tinkering** — because “one last improvement” is never the last one.
+
+## 🧰 My developer toolbox
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4)
+![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![AI](https://img.shields.io/badge/AI%20%26%20Automation-111827?style=for-the-badge&logo=robotframework&logoColor=00D8FF)
+
+</div>
+
+*The toolkit keeps evolving. The curiosity stays the same.* 🔧✨
+
+## 🦣 Mammoth.exe — currently running
 
 ```javascript
-const mammoth = {
+const Mammoth = {
   species: "Woolly Developer 🦣",
-  startedCodingAt: 12,
-  role: "Full-Stack Developer 💻",
-  fuel: ["☕ Coffee", "💡 Ideas", "🎵 Music"],
-  loves: ["Building", "Design", "AI", "Gaming"],
-  superpower: "Making boring tasks extinct ❄️",
-  currentStatus: "Compiling big ideas... 🚀"
+  firstLineOfCode: "age 12 👶💻",
+  lore: "Coding since the Ice Age ❄️",
+  class: "Full-Stack Builder",
+  inventory: ["☕ Coffee", "💡 Ideas", "🎧 Music", "🐛 Bugs"],
+  skills: ["Build", "Break", "Debug", "Improve", "Repeat"],
+  enemies: ["It works on my machine 🤷", "One tiny CSS fix..."],
+  sideQuests: ["AI", "Automation", "Design", "Gaming"],
+  status: "Building the next big thing 🚀"
 };
 
-while (mammoth.currentStatus) {
-  build();
-  learn();
-  improve();
-  // TODO: remember to sleep 😴
+while (Mammoth.isAwake !== false) {
+  createSomethingAwesome();
+  learnSomethingNew();
+  // TODO: sleep at a reasonable time 😴
 }
 ```
 
-## 🎯 Current quest
+## 🎮 Quest log
 
 ```text
-[████████░░] Building cool stuff      🚀
-[██████████] Learning new things      🧠
-[██████░░░░] Finding time to sleep    😴
-[∞         ] New ideas               💡
+🟣 Main quest:     Build cool stuff          █████████░  90%
+🔵 Side quest:     Learn everything          ████████░░  80%
+🟢 Daily quest:    Squash bugs               ███████░░░  70%
+🟠 Legendary:      Finish all side projects  ██░░░░░░░░  20%
+🔴 Secret quest:   Fix my sleep schedule     ░░░░░░░░░░   0%
 ```
 
-## 🧊 Mammoth philosophy
+*Progress bars are for fun. Actual project progress may involve significantly more coffee.* ☕😂
 
-**Stay curious. Keep building. Never stop learning.**
+## 📊 Cave paintings (GitHub stats)
 
-Because the dinosaurs went extinct... but this **Mammoth is still shipping code.** 🦣💥
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mammoth-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="Mammoth GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammoth-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Mammoth's most-used public GitHub languages" height="165" />
+</div>
 
----
+<sub>ℹ️ These cards are generated by a third-party service and may occasionally be unavailable. Language statistics only reflect the repositories the service can access.</sub>
 
-### 👋 Thanks for stopping by!
+## 🧠 Developer wisdom from the frozen lands
 
-**You bring the idea. I'll bring the code.** 🤝💻
+> ❄️ *If the code works, don't touch it.*  
+> 🔥 *If it doesn't work, add a console.log.*  
+> 🦣 *If that doesn't work, summon the Mammoth.*
 
-*May your builds be green, your bugs be tiny, and your coffee be strong.* ☕✨
+<div align="center">
 
-`(•_•)` → `( •_•)>⌐■-■` → `(⌐■_■)` **Mammoth out.** 🦣
+### 👀 You made it this far?
+
+**Then we're probably going to get along.** 🤝
+
+Have an idea, a cool project, or just want to say hi?  
+Find me here: **[github.com/mammoth-code](https://github.com/mammoth-code)** 🦣
+
+**Keep building. Stay curious. Never go extinct.** 🚀
+
+`(•_•)` → `( •_•)>⌐■-■` → `(⌐■_■)`  **MAMMOTH OUT.** 🦣💥
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:4F46E5,100:8B5CF6" width="100%" alt="Purple footer wave" />
+
+</div>
