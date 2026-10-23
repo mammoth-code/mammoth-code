@@ -2,7 +2,7 @@
 
 ### `Full-Stack Developer` 💻 · `Creative Builder` 🎨 · `Professional Bug Hunter` 🐛
 
-![Coding since age 12](https://img.shields.io/badge/Coding%20since-age%2012-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Coding since since ice age](https://img.shields.io/badge/Coding%20since-age%2012-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Full stack](https://img.shields.io/badge/Full--Stack-Developer-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
 ![AI lover](https://img.shields.io/badge/AI%20%26%20Automation-Enthusiast-16a34a?style=for-the-badge&logo=robotframework&logoColor=white)
 
@@ -16,7 +16,7 @@ Some people collect stamps. I collect ideas, side projects, and occasionally... 
 
 ## 🧠 Mammoth facts
 
-- 🍼 **Started coding at 12** — yes, before I had any idea what a proper sleep schedule was.
+- 🍼 **Started coding since the Ice Age** — yes, before I had any idea what a proper sleep schedule was.
 - 🏗️ **Full-stack at heart** — I like both the beautiful frontend and the clever backend.
 - 🤖 **AI & automation fan** — why do something 100 times when you can code it once?
 - 🎨 **Creative thinker** — great code should work *and* feel great to use.
